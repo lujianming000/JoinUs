@@ -1,0 +1,3 @@
+# JoinUs
+
+SQL database practice
